@@ -6,7 +6,7 @@
 Clone the repository, change directories, and use yarn to install the dependencies.
 
 ```bash
-$ git clone https://github.com/talentedev/react-crypto-trade.git
+$ git clone https://github.com/CryptoAngel1024/react-crypto-trade.git
 $ cd react-crypto-trade
 $ yarn
 ```
